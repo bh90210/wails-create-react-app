@@ -33,4 +33,11 @@ Please choose an option [1]:
 
 ## usage 
 
+### serve
+
+First run `wails serve` inside app's root directory.
+Then `cd frontend` and run `yarn run start` to serve the front-end.
+
+### Js
+
 wip
