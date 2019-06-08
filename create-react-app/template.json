@@ -1,8 +1,8 @@
 {
   "name": "React JS",
   "version": "1.0.0",
-  "shortdescription": "A Create React App v3 template",
-  "description": "React v16.8.6 with Webpack 4",
+  "shortdescription": "Create React App v3 template",
+  "description": "Create React App v3 standar tooling",
   "install": "yarn",
   "build": "yarn run build",
   "author": "bh90210 <ktc@pm.me>",
