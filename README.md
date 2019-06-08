@@ -3,12 +3,12 @@ Create new [Wails](https://wails.app/) projects using React JS. For more informa
 
 ## installation
 
-download (or clone) the repository and copy the `react-basic` folder inside wails templates directory `$GOPATH/src/github.com/wailsapp/wails/cmd/templates`
+download (or clone) the repository and copy the `create-react-app` folder inside wails templates directory `$GOPATH/src/github.com/wailsapp/wails/cmd/templates`
 
 ```
 cd $GOPATH/src/github.com/wailsapp/wails/cmd/templates
 git clone https://github.com/bh90210/wails-create-react-app.git
-cp -R wails-create-react-app/react-basic .
+cp -R wails-create-react-app/create-react-app .
 rm -R wails-create-react-app
 ```
 
