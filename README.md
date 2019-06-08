@@ -1,4 +1,5 @@
 # Wails Create React App v3
+Create new [Wails](https://wails.app/) projects using React JS. For more information on Create React App please check the [official documentation](https://facebook.github.io/create-react-app/docs/getting-started). 
 
 ## installation
 
