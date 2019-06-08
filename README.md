@@ -15,7 +15,7 @@ rm -R wails-create-react-app
 ## initialise a project 
 
 run `wails init` from your terminal and select option `React JS`
-```
+```bash
 $ wails init
 Wails v0.15.0 - Initialising project
 
