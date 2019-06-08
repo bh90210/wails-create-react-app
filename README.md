@@ -33,7 +33,7 @@ Please choose an option [1]:
 
 ## usage 
 
-### serve
+### serve the project
 
 First run command `wails serve` in the project directory.
 
