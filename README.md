@@ -25,7 +25,7 @@ Output binary Name: myproject
 Project directory name (myproject): 
 Project Directory: myproject
 Please select a template:
-  1: React/Webpack Basic - A Create React App template
+  1: React/Webpack Basic - A Create React App v3 template
   2: Vue2/Webpack Basic - A basic Vue2/WebPack4 template
   3: Vuetify Basic - Vuetify + Webpack
 Please choose an option [1]: 
