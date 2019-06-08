@@ -14,7 +14,7 @@ rm -R wails-create-react-app-template
 
 ## initialise a project 
 
-run `wails init` from your terminal and select option `React/Webpack Basic`
+run `wails init` from your terminal and select option `React JS`
 ```
 $ wails init
 Wails v0.15.0 - Initialising project
