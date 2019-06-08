@@ -1,0 +1,14 @@
+{
+  "name": "React/Webpack Basic",
+  "version": "1.0.0",
+  "shortdescription": "A Create React App template",
+  "description": "React v16.8.6 with Webpack 4",
+  "install": "yarn",
+  "build": "yarn run build",
+  "author": "bh90210 <ktc@pm.me>",
+  "created": "2019-06-07 18:23:48.666414555 +0300 EEST m=+223.934866008",
+  "frontenddir": "frontend",
+  "serve": "yarn run start",
+  "bridge": "src",
+  "wailsdir": ""
+}
