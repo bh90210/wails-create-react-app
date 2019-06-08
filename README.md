@@ -11,7 +11,7 @@ cp -R wails-create-react-app-template/react-basic .
 rm -R wails-create-react-app-template
 ```
 
-## usage 
+## initialise a project 
 
 run `wails init` from your terminal and select option `React/Webpack Basic`
 ```
@@ -30,3 +30,7 @@ Please select a template:
   3: Vuetify Basic - Vuetify + Webpack
 Please choose an option [1]: 
 ```
+
+## usage 
+
+wip
