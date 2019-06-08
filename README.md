@@ -7,9 +7,9 @@ download (or clone) the repository and copy the `react-basic` folder inside wail
 
 ```
 cd $GOPATH/src/github.com/wailsapp/wails/cmd/templates
-git clone https://github.com/bh90210/wails-create-react-app-template.git
-cp -R wails-create-react-app-template/react-basic .
-rm -R wails-create-react-app-template
+git clone https://github.com/bh90210/wails-create-react-app.git
+cp -R wails-create-react-app/react-basic .
+rm -R wails-create-react-app
 ```
 
 ## initialise a project 
