@@ -35,9 +35,9 @@ Please choose an option [1]:
 
 ### serve the project
 
-First run command `wails serve` in the project directory.
+First run command `wails serve` in the project directory
 
-Then `cd frontend` and `yarn run start` to serve the front-end.
+Then `cd frontend` and `yarn run start` to serve the front-end
 
 ### Js
 
