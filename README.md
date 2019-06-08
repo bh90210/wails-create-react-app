@@ -1,4 +1,4 @@
-# wails create react app template
+# Wails Create React App v3
 
 ## installation
 
