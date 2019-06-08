@@ -1,7 +1,7 @@
 {
   "name": "React/Webpack Basic",
   "version": "1.0.0",
-  "shortdescription": "A Create React App template",
+  "shortdescription": "A Create React App v3 template",
   "description": "React v16.8.6 with Webpack 4",
   "install": "yarn",
   "build": "yarn run build",
