@@ -2,7 +2,7 @@
 
 ## installation
 
-download (or clone) the reposatory and copy the `react-basic` folder inside wails templates directory `$GOPATH/src/github.com/wailsapp/wails/cmd/templates`
+download (or clone) the repository and copy the `react-basic` folder inside wails templates directory `$GOPATH/src/github.com/wailsapp/wails/cmd/templates`
 
 ```
 cd $GOPATH/src/github.com/wailsapp/wails/cmd/templates
