@@ -40,6 +40,6 @@ first run command `wails serve` in the project directory
 
 then `cd frontend` and `yarn run start` to serve the front-end
 
-### Js
+### Go/Js
 
 wip
