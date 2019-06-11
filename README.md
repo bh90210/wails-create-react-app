@@ -46,4 +46,4 @@ wip
 
 ### ejecting 
 
-if you wish to eject run `yarn eject`
+if you wish to eject run `yarn eject` in the `project/frontend` directory
