@@ -43,3 +43,7 @@ then `cd frontend` and `yarn run start` to serve the front-end
 ### Go/Js
 
 wip
+
+### ejecting 
+
+if you wish to eject run `yarn eject`
