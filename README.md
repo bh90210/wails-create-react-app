@@ -1,6 +1,10 @@
 # Create React App v3 template for Wails
 Create new [Wails](https://wails.app/) projects w/ React JS. For more information on Create React App please check the [official documentation](https://facebook.github.io/create-react-app/docs/getting-started). 
 
+## prerequisites
+
+Have [Yarn](https://yarnpkg.com/en/docs/install) installed at your system
+
 ## installation
 
 download (or clone) the repository and copy the `create-react-app` folder inside wails templates directory `$GOPATH/src/github.com/wailsapp/wails/cmd/templates`
