@@ -1,5 +1,5 @@
 # Create React App v3 template for Wails
-Create new [Wails](https://wails.app/) projects w/ React JS. For more information on Create React App please check the [official documentation](https://facebook.github.io/create-react-app/docs/getting-started). 
+Create new [Wails](https://github.com/wailsapp/wails) projects w/ React JS. For more information on Create React App please check the [official documentation](https://facebook.github.io/create-react-app/docs/getting-started). 
 
 ## prerequisites
 
