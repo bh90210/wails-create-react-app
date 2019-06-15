@@ -1,6 +1,7 @@
 import React from 'react';
 import logo from './logo.png';
 import './App.css';
+import HelloWorld from './components/HelloWorld';
 
 function App() {
   return (
@@ -8,16 +9,10 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Welcome to your new <code>wails/react</code> project.
         </p>
-        <a
-          className="App-link"
-          href="https://wails.app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Wails Documents
-        </a>
+
+        <HelloWorld />
       </header>
     </div>
   );
