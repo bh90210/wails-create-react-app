@@ -7,12 +7,12 @@ Have [Yarn](https://yarnpkg.com/en/docs/install) installed at your system
 
 ## installation
 
-download (or clone) the repository and copy the `create-react-app` folder inside wails templates directory `$GOPATH/src/github.com/wailsapp/wails/cmd/templates`
+download (or clone) the repository and copy the `create-react-app-yarn` folder inside wails templates directory `$GOPATH/src/github.com/wailsapp/wails/cmd/templates`
 
 ```bash
 cd $GOPATH/src/github.com/wailsapp/wails/cmd/templates
-git clone https://github.com/bh90210/wails-create-react-app.git
-cp -R wails-create-react-app/create-react-app .
+git clone https://github.com/bh90210/wails-create-react-app-yarn.git
+cp -R wails-create-react-app/create-react-app-yarn .
 rm -R wails-create-react-app
 ```
 
