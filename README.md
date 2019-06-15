@@ -1,5 +1,6 @@
-# Create React App v3 template for Wails
-Create new [Wails](https://github.com/wailsapp/wails) projects w/ React JS. For more information on Create React App please check the [official documentation](https://facebook.github.io/create-react-app/docs/getting-started). 
+# Create React App v3 template for Wails (yarn version)
+Create new [Wails](https://github.com/wailsapp/wails) projects w/ React JS using yarn instead of defaule Wail's npm. 
+For more information on Create React App please check the [official documentation](https://facebook.github.io/create-react-app/docs/getting-started). 
 
 ## prerequisites
 
@@ -18,7 +19,7 @@ rm -R wails-create-react-app
 
 ## initialise a project 
 
-run `wails init` from your terminal and select option `React JS`
+run `wails init` from your terminal and select option `React JS (yarn)`
 ```bash
 $ wails init
 Wails v0.15.0 - Initialising project
@@ -30,9 +31,10 @@ Output binary Name: myproject
 Project directory name (myproject): 
 Project Directory: myproject
 Please select a template:
-  1: React JS - Create React App v3 template
-  2: Vue2/Webpack Basic - A basic Vue2/WebPack4 template
-  3: Vuetify Basic - Vuetify + Webpack
+  1: React JS (yarn) - Create React App v3 template
+  2: React JS - Create React App v3 template
+  3: Vue2/Webpack Basic - A basic Vue2/WebPack4 template
+  4: Vuetify Basic - Vuetify + Webpack
 Please choose an option [1]: 
 ```
 
