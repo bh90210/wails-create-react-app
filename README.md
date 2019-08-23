@@ -1,3 +1,5 @@
+*THE FOLLOWNG IS OUTDATED, IT'S LEFT HERE FOR REFERENCE ONLY*
+
 # Create React App v3 template for Wails (yarn version)
 Create new [Wails](https://github.com/wailsapp/wails) projects w/ React JS using `yarn` instead of Wail's default `npm` option. 
 For more information on Create React App please check the [official documentation](https://facebook.github.io/create-react-app/docs/getting-started). 
